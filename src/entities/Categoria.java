@@ -13,6 +13,10 @@ public class Categoria {
         this.id = id;
     }
 
+    public Categoria() {
+        
+    }
+
     public String getNome() {
         return nome;
     }
